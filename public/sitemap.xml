@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2021-01-13T19:10:40+06:00</lastmod>
+    <loc>http://localhost:1313/posts/welcome-to-my-personal-blog/</loc>
+    <lastmod>2024-02-26T17:33:14+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-personal-post/</loc>
-    <lastmod>2021-01-13T19:10:40+06:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-02-26T17:33:14+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cookies/</loc>
+    <lastmod>2024-02-26T17:33:14+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2021-01-13T19:10:40+06:00</lastmod>
+    <lastmod>2024-02-26T17:33:14+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-02-26T17:33:14+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my-personal-post/</loc>
     <lastmod>2021-01-13T19:10:40+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/travel/</loc>
@@ -49,9 +55,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/officel-post/</loc>
     <lastmod>2021-01-13T18:10:30+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/welcome-to-my-personal-blog/</loc>
-    <lastmod>2021-01-13T17:33:14+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>

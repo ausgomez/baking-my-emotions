@@ -5,8 +5,8 @@
   tags: "cookies"
   tranding: false
   readTime: "2 min"
-  thumbnail: /images/featured-post.jpg
-  featureImage: /images/blog/blog-single.png
+  thumbnail: /images/hero.jpg
+  featureImage: /images/hero.jpg
 ---
 
 Welcome to my cookies blog

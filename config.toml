@@ -2,7 +2,7 @@ baseURL = "https://chipz.cc"
 languageCode = "en-us"
 paginate = 6
 summarylength = 10
-title = "Blogge | Personal Blog Template"
+title = "Baking My Emotions | Blog"
 
 [menu]
   [[menu.main]]
@@ -20,12 +20,12 @@ title = "Blogge | Personal Blog Template"
 
 [params]
   summarylength = 80
-  logo = "images/logo.svg"
+  logo = "images/logo.png"
   author = "Ofelia"
   authorThumb = "images/ofelia.jpeg"
   authorAddress = "Lorem 142 Str., 2352, Ipsum, State, USA"
   authorPhone = "+33-257634 534"
-  instaUsername = "mary_astor"
+  instaUsername = "chipz.bakery"
   facebookUsername = "mary_astor"
   twitterUsername = "mary_astor"
   linkedinUsername = "mary_astor"

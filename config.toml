@@ -2,7 +2,7 @@ baseURL = "https://chipz.cc"
 languageCode = "en-us"
 paginate = 6
 summarylength = 10
-title = "Chipz Diaries: Baking My Emotions | Blog"
+title = "Baking My Emotions | Blog"
 
 [menu]
   [[menu.main]]

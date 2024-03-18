@@ -160,7 +160,7 @@ testBox.add("jQuery").remove("jQuery");
 <html>
     <head>
         <mate charest="utf-8" />
-        <title>Chipz Diaries: Baking my Emotions</title>
+        <title>Baking my Emotions</title>
     </head>
     <body>
         <h1>Hello world!</h1>

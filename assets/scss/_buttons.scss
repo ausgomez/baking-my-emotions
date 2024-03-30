@@ -1,28 +1,57 @@
+/* Button style */
 .btn {
-  padding: 18px 30px;
-  border: 2px solid $primary-color;
-  font-family: $secondary-font;
-  font-size: 15px;
-  line-height: 25px;
-  font-weight: 600;
-  min-width: 180px;
+  font-family: $primary-font;
+  font-weight: 500;
   text-transform: capitalize;
-  border-radius: 5px;
-  @include desktop-lg {
-    min-width: 160px;
+  padding: 10px 25px;
+  border-radius: 0;
+  border: 1px solid;
+  position: relative;
+  z-index: 1;
+  transition: .2s ease;
+
+  &:hover,
+  &:active,
+  &.active
+  &:focus,
+  &.focus {
+    outline: 0;
+    box-shadow: none !important;
   }
-  @include tablet {
-    padding: 12px 25px;
-    font-size: 14px;
+}
+
+.btn-primary {
+  background: $primary-color;
+  color: $white;
+  border-color: $primary-color;
+
+  &:hover,
+  &:active,
+  &.active
+  &:focus,
+  &.focus {
+    background: $primary-color !important;
+    border-color: $primary-color !important;
   }
-  &-primary {
-    background-color: $black;
+}
+
+.btn-outline-primary {
+  background: transparent;
+  color: $primary-color;
+  border-color: $primary-color;
+
+  &:hover,
+  &:active,
+  &.active
+  &:focus,
+  &.focus {
+    background: $primary-color !important;
+    border-color: $primary-color !important;
     color: $white;
-    &:hover {
-      background-color: $secondary-color;
-      color: $white;
-      transition: all 0.3s ease-in-out;
-      border-color: $secondary-color;
-    }
   }
+}
+
+.btn-sm{
+  font-size: 14px;
+  padding: 10px 25px;
 }

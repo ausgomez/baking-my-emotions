@@ -1,7 +1,7 @@
 ---
   title: "Brown Butter Chocolate Chunk Cookies"
   date: 2024-02-26T17:33:14+06:00
-  image: https://stephaniessweets.com/wp-content/uploads/2021/04/IMG_7613-1.jpg
+  image: "images/post/choco-chip.jpeg"
   categories: [cookies]
 ---
 

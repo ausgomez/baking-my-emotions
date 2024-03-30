@@ -30,7 +30,6 @@
                   {{$img:= $img.Resize "850x webp"}}
                   <img loading="lazy" decoding="async" src="{{$img.RelPermalink}}" alt="{{.Title}}" class="w-100"
                     width="{{$img.Width}}" height="{{$img.Height}}">
-                  {{$img.RelPermalink}}
                   {{ else }}
                   <span class="image-fallback">{{.Title | title}}</span>
                   {{ end }}

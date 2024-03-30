@@ -1,11 +1,9 @@
 ---
-  title: "Luxurious Red Velvet Cookies"
+  title: "Red Velvet Crinkle Cookies"
   date: 2024-02-26T17:33:14+06:00
-  image: https://houseofnasheats.com/wp-content/uploads/2019/01/Red-Velvet-White-Chocolate-Chip-Cookies-9.jpg
+  image: "images/post/red-velvet.jpeg"
   categories: [cookies]
 ---
-
-## Luxurious Red Velvet Cookies
 
 Hello again! It's Ofelia, back with another delicious recipe that I’m thrilled to share with you. After the overwhelming love for my Brown Butter Chocolate Chunk Cookies, I wanted to keep the momentum going with something equally indulgent and captivating.  
 This recipe is close to my heart, blending the classic elegance of red velvet cake with the comforting, handheld delight of cookies.

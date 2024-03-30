@@ -11,14 +11,19 @@
 # weight = 2
 
 [[main]]
-name = "🍪 Cookies"
-url = "categories/cookies/"
+name = "Home"
+url = "/"
 weight = 1
+
+[[main]]
+name = "Posts"
+url = "categories/cookies/"
+weight = 2
 
 [[main]]
 name = "About"
 url = "about/"
-weight = 2
+weight = 3
 
 # footer menu
 [[footer]]

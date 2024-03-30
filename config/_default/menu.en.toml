@@ -11,19 +11,14 @@
 # weight = 2
 
 [[main]]
-name = "🤖 AI"
-url = "categories/ai/"
+name = "🍪 Cookies"
+url = "categories/cookies/"
 weight = 1
 
 [[main]]
-name = "💰 Crypto"
-url = "categories/crypto/"
+name = "About"
+url = "about/"
 weight = 2
-
-[[main]]
-name = "🎮 Gaming"
-url = "categories/gaming/"
-weight = 3
 
 # footer menu
 [[footer]]

@@ -1,0 +1,47 @@
+# main menu
+# [[main]]
+# name = "About Us"
+# url = "about/"
+# weight = 1
+
+# [[main]]
+# name = "Trends"
+# url = "#"
+# hasChildren = true
+# weight = 2
+
+[[main]]
+name = "🤖 AI"
+url = "categories/ai/"
+weight = 1
+
+[[main]]
+name = "💰 Crypto"
+url = "categories/crypto/"
+weight = 2
+
+[[main]]
+name = "🎮 Gaming"
+url = "categories/gaming/"
+weight = 3
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "Sitemap"
+url = "sitemap.xml"
+weight = 3
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 7
+
+[[footer]]
+name = "Terms Conditions"
+url = "terms-conditions/"
+weight = 8

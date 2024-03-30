@@ -1,0 +1,20 @@
+- id: latest_articles
+  translation: Latest Recipes
+
+- id: read_full_article
+  translation: Read Full Recipe
+
+- id: minutes_read
+  translation: minutes read
+
+- id: categories
+  translation: Categories
+
+- id: recommended
+  translation: Recommended
+
+- id: know_more
+  translation: View More
+
+- id: send_message
+  translation: Send Message

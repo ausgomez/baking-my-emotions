@@ -1,0 +1,41 @@
+baseURL = "https://chipz.cc"
+title = "Baking My Emotions | Blog"
+season = "eastern"
+# theme = "mundo"
+# post pagination
+paginate = "15"
+# post excerpt
+summaryLength = "20"
+# google analytics
+# googleAnalytics = "G-GL751G1NNT"
+# disqus short name
+disqusShortname = "chipz-cc"
+# disable language
+disableLanguages = [] # example: ["fr"] for disable french language
+
+# webp image quality
+[imaging]
+quality = 100
+
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML", "RSS", "JSON", "WebAppManifest"]
+
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+
+[mediaTypes]
+[mediaTypes."application/manifest+json"]
+suffixes = ["webmanifest"]
+
+[mediaTypes."text/netlify"]
+delimiter = ""
+suffixes = [""]
+
+[outputFormats]
+[outputFormats.WebAppManifest]
+mediaType = "application/manifest+json"
+rel = "manifest"
+######################## default configuration ####################

@@ -1,3 +1,0 @@
----
-title: "About Chipz Bakery"
----

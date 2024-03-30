@@ -48,3 +48,9 @@ Like many of you, my fascination with red velvet began at a young age, at family
 - Like our previous recipe, these cookies benefit from resting the dough in the fridge for at least an hour, which helps in developing the flavors and achieving the perfect texture.
 
 As we journey together through the world of baking, I hope these Red Velvet Cookies bring a touch of luxury and a lot of smiles to your kitchen. Stay tuned for more recipes, and remember, the best part of baking is sharing the love and the treats. Happy baking!
+
+
+#### References
+**Wilt, Abigail.** “Betty Crocker Teamed up with Reese’s for Three Sweet Baking Mixes You Won’t Want to Miss.” Southern Living, Southern Living, 14 Mar. 2024, www.southernliving.com/betty-crocker-reeses-baking-mixes-8609380.
+
+**Gomez, Ofelia.** “𝑪𝒉𝒊𝒑𝒛 on Instagram: ‘❣️❣️red Velvet Cookies❣️❣️.’” Instagram, www.instagram.com/p/C5H2mYQLSUU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA. *Accessed 29 Mar. 2024.*

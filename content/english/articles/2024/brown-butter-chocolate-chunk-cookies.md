@@ -51,3 +51,9 @@ These brown butter cookies were all over TikTok during the pandemic, and I could
 - While an ice cream scoop can be used to form cookie balls, an alternative method is to shape the balls by hand into a cone form. This prevents them from completely melting in the oven if the mixture is too liquidy and results in cookies with a more uniform circular shape.
 - I strongly suggest that you add pecans to this recipe, it really blends with the chocolate flavor and the sea salt.
 - For the aesthetic, I recommend you add extra chocolate chunks on top of the cookie balls before you put them in the oven. You’ll end up with cookies that have pools of chocolate and the salt at the end will stick better to these parts.
+
+
+#### References
+**Gomez, Ofelia.** “𝑪𝒉𝒊𝒑𝒛 on Instagram: ‘Chocolate Chunk Cookies🍪 También Puedes Pedirlas Con Nueces💗.’” Instagram, www.instagram.com/p/C5H2c6arpfT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA. *Accessed 29 Mar. 2024*.
+
+**Megan.** “Tahini Chocolate Chip Cookies.” Olives + Thyme, 4 July 2022, www.olivesnthyme.com/tahini-chocolate-chip-cookies/. *Accessed 29 Mar. 2024*.

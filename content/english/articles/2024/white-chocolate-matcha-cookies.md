@@ -40,6 +40,7 @@ Hey there! It’s Ofelia and I have yet another delicious recipe for you to try.
 11. Optional step: Gently put a biscoff cookie on each cookie. You can use a bit of melted white chocolate (or cookie butter) first to help it stick. Or, if you're feeling fancy, slice a big marshmallow in half and place it on top. Let it get a bit melty, then add the biscoff cookie.
 12. Allow the cookies to cool for 10 minutes before serving.
 
+{{< image alt="Matcha Dough" src="/images/post/white-matcha-2.jpeg" >}}
 
 ### Pro Tips
 
@@ -50,6 +51,7 @@ Hey there! It’s Ofelia and I have yet another delicious recipe for you to try.
 - If you’re freezing the dough for cookies at any time later in the week or something, remember to bring them to room temperature before baking them, as sometimes they tend to stay in a thick shape after being in the freezer for so long. 
 - Remember to do the cone shape that I mentioned before in different recipes. This helps to have more of a rounder and prevent the dough from completely melting in the oven, especially if you don't chill your dough long enough.
 
+{{< image alt="Matcha Cookies" src="/images/post/white-matcha-1.jpeg" >}}
 
 #### References
 “7 Proven Health Benefits of Matcha Tea.” Healthline, Healthline Media, www.healthline.com/nutrition/7-benefits-of-matcha-tea. Accessed 29 Mar. 2024. 

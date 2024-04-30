@@ -37,12 +37,17 @@ These cookies are rich, fudgy, and utterly irresistible. With a crackly exterior
 11. Remove from the oven and allow the cookies to cool on the baking sheet for 5 minutes before transferring them to a wire rack to cool completely.
 12. Enjoy your deliciously decadent brownie chocolate cookies with a cold glass of milk or a scoop of vanilla ice cream!
 
+<br>
+{{< image alt="Chipz Cookies" src="/images/post/chipz.jpeg" >}}
 
 ### Pro Tips
 
 - For an extra indulgent treat, try adding chopped nuts or swirls of caramel sauce to the cookie dough before baking.
 - Don't overbake the cookies, as they will continue to cook slightly as they cool, and you want them to remain soft and chewy in the center.
 - Store any leftover cookies in an airtight container at room temperature for up to 5 days, or freeze for longer storage.
+
+<br>
+{{< image alt="Instagram Cookies" src="/images/post/insta.jpeg" >}}
 
 #### References
 “How to Start a Baking Business from Home.” IdeaBuddy, 29 Nov. 2023, ideabuddy.com/blog/how-to-start-a-baking-business-from-home/. 

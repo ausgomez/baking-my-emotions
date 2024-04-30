@@ -29,6 +29,7 @@ In this recipe, the brown butter adds a nice crunch to each cookie. Adding bisco
 - 90 gr of white chocolate
 - 10-11 biscoff cookies
 
+<br>
 
 **Instructions:**
 
@@ -45,6 +46,9 @@ In this recipe, the brown butter adds a nice crunch to each cookie. Adding bisco
 11. Gently put a biscoff cookie on each cookie. You can use a bit of melted white chocolate (or cookie butter) first to help it stick. Or, if you're feeling fancy, slice a big marshmallow in half and place it on top. Let it get a bit melty, then add the biscoff cookie.
 12. Allow the cookies to cool for 10 minutes before serving.
 
+<br>
+{{< image alt="Pinterest" src="/images/post/pinterest.jpeg" >}}
+
 
 ### Pro Tips
 
@@ -59,7 +63,7 @@ In this recipe, the brown butter adds a nice crunch to each cookie. Adding bisco
 - Do NOT put the biscoff cookie on the cookie ball before putting it in the oven. When you do that, you’ll burn the biscoff cookie or it will turn super hard after you take them out. 
 - I recommend that you add crushed biscoff cookies and sliced almonds in the dough when mixing as well, as it gives an extra crunch. I found that baking the sliced almonds before baking also gives them a fancy touch.
 
-
+{{< image alt="Bustelo" src="/images/post/bustelo.jpeg" >}}
 
 #### References
 **Gomez, Ofelia.** “𝑪𝒉𝒊𝒑𝒛 on Instagram: ‘White Chocolate Biscoff Cookies🤤💖💞 Personalmente Nuestras Favoritas💝 Ya Pediste Las Tuyas?’” Instagram, www.instagram.com/p/C5H22K7LYaJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA. Accessed 29 Mar. 2024. 
